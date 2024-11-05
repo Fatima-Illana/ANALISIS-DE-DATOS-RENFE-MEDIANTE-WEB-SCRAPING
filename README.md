@@ -10,6 +10,10 @@ El objetivo de este proyecto es analizar cuáles son los tipos de trenes de medi
 
 <img src="./Graficas/PrevisualizacionWebScraping.png" alt="Previsualizacion Proceso Web Scraping" width="1000"/>
 
+## Previsualización Resultados
+
+<img src="./Graficas/PrevisualizacionResultados.png" alt="Previsualizacion Resultados" width="1000"/>
+
 ## Estructura del Proyecto
 
 - **HorariosRenfeWebScraping.py**: Script the Python que realiza web scraping de los datos en la página de Renfe de 1 sola estación, y lo almacena en el archivo 'HorariosLargaDistancia.csv'.
@@ -17,7 +21,7 @@ El objetivo de este proyecto es analizar cuáles son los tipos de trenes de medi
 - **Carpeta Datos/**: Carpeta donde se almacenan los archivos CSV generados con los datos extraídos:
   - **CSVAcumulativo.csv**: es un archivo CSV que recopila el resultado de ejecución de 'VariasEstacionesWebScraping.py' a lo largo de varios días. Es el csv empleado para el análisis final, para poder contar con más datos de varios días.
 - **GraficasAnalisis.csv**: Script de Python que realiza un estudio de los datos y genera las gráficas finales. 
-- **Carpeta Graficas/**: Carpeta donde se guardan las visualizaciones generadas a partir de los datos.
+- **Carpeta Graficas**: Carpeta donde se guardan las visualizaciones generadas a partir de los datos.
 - **InformeAnalisisRenfe**: Informe que muestra gráficamente el proceso de extracción de datos y la visualización de las gráficas finales. 
 
 ## Requisitos

@@ -12,7 +12,9 @@ El objetivo de este proyecto es analizar cuáles son los tipos de trenes de medi
 
 ## Previsualización Resultados
 
-<img src="./Graficas/PrevisualizacionResultados.png" alt="Previsualizacion Resultados" width="1000"/>
+<img src="./Graficas/PrevisualizacionResultados1.png" alt="Previsualizacion Resultados 1" width="1000"/>
+
+<img src="./Graficas/PrevisualizacionResultados2.png" alt="Previsualizacion Resultados 2" width="1000"/>
 
 ## Estructura del Proyecto
 

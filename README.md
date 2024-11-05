@@ -6,6 +6,10 @@ Este proyecto utiliza web scraping para recopilar y analizar datos sobre los tre
 
 El objetivo de este proyecto es analizar cuáles son los tipos de trenes de media y larga distancia más utilizados y cuáles presentan mayores tiempos de retraso en distintas estaciones de la red de Renfe. Con esta información, se crean visualizaciones que facilitan el análisis de las tendencias en puntualidad y frecuencia de los trenes.
 
+## Previsualización Proceso Web Scraping
+
+<img src="./Graficas/PrevisualizacionWebScraping.png" alt="Previsualizacion Proceso Web Scraping" width="1000"/>
+
 ## Estructura del Proyecto
 
 - **HorariosRenfeWebScraping.py**: Script the Python que realiza web scraping de los datos en la página de Renfe de 1 sola estación, y lo almacena en el archivo 'HorariosLargaDistancia.csv'.

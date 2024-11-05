@@ -2,6 +2,10 @@
 
 Este proyecto utiliza web scraping para recopilar y analizar datos sobre los trenes de media y larga distancia en Renfe. Se obtienen horarios, llegadas y retrasos en distintas estaciones, mediante técncias de Web Scraping, y se almacenan en un archivo CSV. Posteriormente, se visualizan los resultados mediante gráficas para identificar patrones de uso y retrasos.
 
+## Autor
+
+- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
+
 ## Objetivo
 
 El objetivo de este proyecto es analizar cuáles son los tipos de trenes de media y larga distancia más utilizados y cuáles presentan mayores tiempos de retraso en distintas estaciones de la red de Renfe. Con esta información, se crean visualizaciones que facilitan el análisis de las tendencias en puntualidad y frecuencia de los trenes.
